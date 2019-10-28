@@ -23,7 +23,7 @@ const config = {
   ],
   devtool: !prodMode ? 'source-map' : '',
   output: {
-    publicPath: '/',
+    publicPath: '',
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'build'),
   },
