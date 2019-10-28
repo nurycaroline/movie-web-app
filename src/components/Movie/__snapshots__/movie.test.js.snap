@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Movie 1`] = `
+<div
+  className="movie"
+>
+  <img
+    alt=""
+    src="https://image.tmdb.org/t/p/w200/cBO4u9qR1A7kSU299Qr3Ru9lvZ3.jpg"
+  />
+  <div
+    className="information"
+  >
+    <p
+      className="title"
+    >
+      John Wick 3 - Parabellum
+    </p>
+    <p
+      className="overview"
+    >
+      Após assassinar o chefe da máfia Santino D'Antonio (Riccardo Scamarcio) no Hotel Continental, John Wick (Keanu Reeves) passa a ser perseguido pelos membros da Alta Cúpula sob a recompensa de U$14 milhões. Agora, ele precisa unir forças com antigos parceiros que o ajudaram no passado enquanto luta por sua sobrevivência.
+    </p>
+    <p
+      className="genres"
+    >
+      Crime,Ação,Thriller
+    </p>
+  </div>
+</div>
+`;

@@ -1,0 +1,22 @@
+@import '../assets/variables';
+
+.movies {
+  h2 {
+    padding-left: 15px;
+    font-size: 18px;
+    color: $second-color;
+    font-weight: bold;
+  }
+}
+
+.list-movies {
+  box-shadow: 0 0 5px $shadown-color;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  height: calc(100vh - 265px);
+  overflow-y: scroll;
+}

@@ -1,0 +1,43 @@
+@import '../../assets/variables';
+
+.movie {
+  max-width: 500px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  min-height: 300px;
+  margin-bottom: 15px;
+  box-shadow: 1px 5px 5px $shadown-color;
+
+  .information {
+    min-width: 200px;
+    padding: 0 15px;
+
+    .title {
+      color: $second-color;
+      font-weight: bold;
+      font-size: 18px;
+      padding: 15px;
+    }
+    .overview {
+      overflow: hidden;
+      min-width: 200px;
+      height: 160px;
+
+      display: -webkit-box;
+      -webkit-line-clamp: 6;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      line-height: 1.625;
+    }
+    .genres {
+      display: flex;
+      justify-content: flex-end;
+      align-items: end;
+      height: 50px;
+      flex-direction: column;
+      line-height: 20px;
+    }
+  }
+}

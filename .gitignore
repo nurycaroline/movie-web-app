@@ -1,0 +1,12 @@
+/node_modules
+/build
+
+.env
+yarn.lock
+yarn-error.log
+package-lock.json
+
+.docz
+/buildDocz
+
+coverage

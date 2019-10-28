@@ -1,0 +1,13 @@
+@import '../../assets/variables';
+
+.search {
+  margin: 15px;
+
+  input {
+    width: 500px;
+    height: 38px;
+    font-size: 14px;
+    color: $primary-color;
+    padding-left: 10px;
+  }
+}

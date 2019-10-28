@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagination 1`] = `
+<div
+  className="pagination"
+>
+  <button
+    disabled={true}
+    onClick={[Function]}
+    type="button"
+  >
+    Anterior
+  </button>
+  <p>
+    1
+     de 
+    0
+  </p>
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    Proximo
+  </button>
+</div>
+`;
