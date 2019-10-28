@@ -1,0 +1,48 @@
+{
+  "icons": [
+    {
+      "src": "/icon_1024x1024.2dd81caf12db0c823269baaaa48a682a.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_512x512.6151f39a226c20f0de6528310e051c38.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0b18d0c789336bb8b6eb4c88b76020f6.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_256x256.d98106c16a761d62bf508216e2e999c1.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.3eab295a6804ca541c2199e059f5e082.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.be09b831698f4cb9d1bd16f038dee57c.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.0b8c64357cd661b09e0ce456a96cc6ce.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Movie Web App",
+  "short_name": "RB PWA DEV",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "index.html",
+  "description": "Movie Web App",
+  "theme_color": "#cb3332",
+  "background_color": "#ffffff",
+  "lang": "pt-BR"
+}
